@@ -1,0 +1,33 @@
+.zedgerbg{
+    font-family: Montserrat, Helvetica, Arial, sans-serif;
+    background: linear-gradient(135deg, rgb(171, 95, 249) 0%, rgb(121, 70, 222) 36.66%, rgb(26, 185, 234) 100%);
+}
+.mainContent{
+   margin-top: 30vh;
+}
+.mainContentTwo{
+    margin-top: 30vh;
+ }
+.mainContentThree{
+    margin-top: 20vh;
+}
+.marginOfContent{
+    margin-bottom:30vh;
+}
+.footer ul{
+    list-style: none;
+    text-decoration: none;
+}
+li a{
+    text-decoration: none;
+}
+.footerSeLast a{
+    text-decoration: none;
+   
+}
+.mainContentFour{
+    margin-top: 10vh;
+}
+.vrStyle{
+    border-right: 2px solid rgb(234, 234, 234);
+}
